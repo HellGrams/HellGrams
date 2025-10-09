@@ -76,9 +76,9 @@ const hellDeveloper = {
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&border_color=7F3FBF&bg_color=0D1117&title_color=7F3FBF&icon_color=7F3FBF)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HellGrams&show_icons=true&theme=tokyonight&border_color=7F3FBF&bg_color=0D1117&title_color=7F3FBF&icon_color=7F3FBF)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&border_color=7F3FBF&bg_color=0D1117&title_color=7F3FBF)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HellGrams&layout=compact&theme=tokyonight&border_color=7F3FBF&bg_color=0D1117&title_color=7F3FBF)
 
 </div>
 
@@ -89,7 +89,7 @@ const hellDeveloper = {
 <div align="center">
 
 [![Discord](https://img.shields.io/badge/Discord-10.firmeza-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/10.firmeza)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU_USUARIO)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HellGrams)
 
 </div>
 
