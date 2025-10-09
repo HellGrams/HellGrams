@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Hell Developer
 
-![Banner](https://i.imgur.com/your-banner-url.png)
+![Banner](https://imgur.com/a/AyYznpg)
 <!-- Reemplaza el link anterior con la URL de tu banner -->
 
 <div align="center">
@@ -99,6 +99,6 @@ const hellDeveloper = {
   
   ### ⚡ "Transformando ideas en código, un commit a la vez"
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=TU_USUARIO&color=blueviolet&style=flat-square&label=Visitas)
+  ![Profile Views](https://komarev.com/ghpvc/?username=HellGrams&color=blueviolet&style=flat-square&label=Visitas)
   
 </div>
