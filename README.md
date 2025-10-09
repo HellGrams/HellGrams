@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Hell Developer
 
-![Banner](https://imgur.com/a/AyYznpg)
+![Banner](https://i.imgur.com/RYdfAOI.jpeg)
 <!-- Reemplaza el link anterior con la URL de tu banner -->
 
 <div align="center">
