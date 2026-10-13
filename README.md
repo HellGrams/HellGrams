@@ -25,4 +25,4 @@ java  python  node  discord.js  JDA  discord.py
   <img src="https://skillicons.dev/icons?i=java,python,nodejs,js,ts,discord,mysql,git&theme=dark" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F3FBF,100:0D1117&height=100&section=footer" width="100%" />
+<img src="https://i.imgur.com/RYdfAOI.jpeg" width="100%" />
