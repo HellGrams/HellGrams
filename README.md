@@ -8,21 +8,3 @@
   <a href="https://discord.com/users/10.firmeza"><img src="https://img.shields.io/badge/discord-10.firmeza-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://github.com/HellGrams"><img src="https://img.shields.io/badge/github-HellGrams-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-
-```bash
-$ whoami
-hell
-
-$ cat about.txt
-backend dev. bots de discord, plugins de minecraft, APIs.
-Java / Python / JavaScript según lo que pida el proyecto.
-
-$ ls stack/
-java  python  node  discord.js  JDA  discord.py
-```
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,nodejs,js,ts,discord,mysql,git&theme=dark" />
-</p>
-
-<img src="https://i.imgur.com/RYdfAOI.jpeg" width="100%" />
